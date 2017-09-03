@@ -17,6 +17,6 @@ function get_db_config() {
             'databse' => env('DB_DATABASE', 'forge'),
             'username' => env('DB_DATABASE', 'forge'),
             'password' => env('DB_PASSWORD', ''),
-        ]
+        ];
     }
 }
